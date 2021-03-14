@@ -2,6 +2,12 @@
 i5 7500 EFI macOS BigSur HD630  ColorFul，macOS 集成显卡EFI
 ## 集成显卡HD630, 配置如下，如有刚刚好该配置可直接下载安装，淘宝花180安装的，当然如果有更多的人共享或者同时使用，那么后续升级可以互相参考！
 ### 详细报表
+
+### 图片预览
+
+- ![基本信息](https://tvax2.sinaimg.cn/large/007ZbABKgy1gojujxcenij30ga09rq4p.jpg)
+- ![基本信息](hhttps://tva3.sinaimg.cn/large/007ZbABKgy1gojujxg7b9j30ga0bjmxk.jpg)
+
 ```
 --------[ 鲁大师 ]--------------------------------------------------------------------------------
 
